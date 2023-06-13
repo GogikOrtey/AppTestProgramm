@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g5MTt4/E1CLdlZgC82kaK/VF7n1HRAjOVUJ1s122CLw5FfNgpb748AwN2I3sg9WJu81rlkVjgQ1qrFLub4Ui8g==",
+  "success": true,
+  "projectFilePath": "D:\\Рабочий стол\\Учёба 3й курс 2023\\Стандарты\\Практики\\3е задание - тестирование\\AppTestProgramm\\AppTestProgramm\\AppTestProgramm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gogor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
